@@ -1,7 +1,6 @@
 # Emociones
 Emociones en Python
 
-7 
 9
 10 
 11 
